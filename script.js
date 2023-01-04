@@ -27,3 +27,9 @@ console.log('modificação no script');
 //git branch nomeBranch => cria branch
 
 //git checkout nomeBrancQueQUeroIr
+
+//para clonar um repositorio git clone url que tá no github
+
+//git pull vai puxar mudanças que aconteceram no repositorio git p/ nossso repositorio local
+
+//para fazer merge => git merge nome da branch que quero juntar a branch atual
