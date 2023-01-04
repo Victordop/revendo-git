@@ -33,3 +33,5 @@ console.log('modificação no script');
 //git pull vai puxar mudanças que aconteceram no repositorio git p/ nossso repositorio local
 
 //para fazer merge => git merge nome da branch que quero juntar a branch atual
+
+console.log('tchau');
