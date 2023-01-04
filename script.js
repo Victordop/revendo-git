@@ -18,3 +18,12 @@ console.log('modificação no script');
 //essas barrinhas verdes que aparecem do lado do código no vs code significam que a linha foi adicionada
 
 //também posso ver essa mudança clicando ali do lado na parte que tem o icone da branch
+
+//clico no arquivo lá no github, em history -> temos uma listagem dos commits realizados
+
+//branch são ramificações do ramo master que posso alterar sem alterar o master
+
+//git branch nos diz quais branchs temos
+//git branch nomeBranch => cria branch
+
+//git checkout nomeBrancQueQUeroIr
