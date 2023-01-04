@@ -12,4 +12,9 @@
 // depois dar git push -u origin  master 
 
 
+console.log('modificação no script');
 
+
+//essas barrinhas verdes que aparecem do lado do código no vs code significam que a linha foi adicionada
+
+//também posso ver essa mudança clicando ali do lado na parte que tem o icone da branch
