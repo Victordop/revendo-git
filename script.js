@@ -40,3 +40,6 @@ console.log('oi');
 //pull request quem faz é quem revisa nosso código, nosso gerente, etc
 
 //para deletar uma branc -> git branch -d
+
+//para que o git ignore determinadas pastas do nosso projeto é só 
+//criar um arquivo .gitignore e colocar os nomes das pastas ignoradas dentro

@@ -1,0 +1,22 @@
+{
+  "name": "site-git",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Victordop/revendo-git.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Victordop/revendo-git/issues"
+  },
+  "homepage": "https://github.com/Victordop/revendo-git#readme",
+  "dependencies": {
+    "jquery": "^3.6.3"
+  }
+}
