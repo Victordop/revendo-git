@@ -43,3 +43,5 @@ console.log('oi');
 
 //para que o git ignore determinadas pastas do nosso projeto é só 
 //criar um arquivo .gitignore e colocar os nomes das pastas ignoradas dentro
+
+//git é bem daora
