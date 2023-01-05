@@ -34,4 +34,7 @@ console.log('modificação no script');
 
 //para fazer merge => git merge nome da branch que quero juntar a branch atual
 
-console.log('tchau');
+console.log('oi');
+
+
+//pull request quem faz é quem revisa nosso código, nosso gerente, etc
